@@ -4,8 +4,7 @@
 **vitoriiia/vitoriiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Retornando os estudos em programação
-- 🌱 Estudando desenvolvimento web, revendo aulas de HTML, CSS e Javascript.
+- 🌱 Curiosa, estudando desenvolvimento web, revendo aulas de HTML, CSS e Javascript.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
