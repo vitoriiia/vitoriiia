@@ -4,7 +4,7 @@
 **vitoriiia/vitoriiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 Oie.
+- 🌱 Oie, amo tecnologia e recentemente decido voltar os estudos na área.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
